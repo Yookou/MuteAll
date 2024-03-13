@@ -1,0 +1,11 @@
+# PhpStorm
+.idea/*
+
+# Composer
+composer.lock
+composer.json
+/vendor/
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+.php-cs-fixer.php

@@ -1,0 +1,8 @@
+permission: "muteall.command"
+mute-message: "You can't chat while muted!"
+
+command:
+    muteall:
+        broadcast: "§e{player} §7has muted all players!"
+    unmuteall:
+        broadcast: "§e{player} §7has unmuted all players!"
