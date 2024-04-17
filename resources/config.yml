@@ -1,4 +1,3 @@
-permission: "muteall.command"
 mute-message: "You can't chat while muted!"
 
 command:

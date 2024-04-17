@@ -10,7 +10,6 @@ Finally, if you are looking for private plugins at a good price, I can make some
 ### Config
 
 ```yaml
-permission: "muteall.command"
 mute-message: "You can't chat while muted!"
 
 command:
