@@ -4,3 +4,8 @@ version: 0.0.1
 api: [5.0.0]
 author: Yookou
 website: "soon"
+
+permissions:
+  muteall.cmd:
+    description: Allows the player to mute all players
+    default: op

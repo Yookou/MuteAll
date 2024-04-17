@@ -19,6 +19,6 @@ class Main extends PluginBase {
 		$server = $this->getServer();
 
 		$server->getPluginManager()->registerEvents(new MuteAllListener($this), $this);
-		$server->getCommandMap()->register("", new MuteAllCommand($this));
+		$server->getCommandMap()->register("MuteAll", new MuteAllCommand());
 	}
 }
